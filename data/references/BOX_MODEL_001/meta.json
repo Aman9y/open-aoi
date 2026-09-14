@@ -1,0 +1,120 @@
+{
+  "id": "BOX_MODEL_001",
+  "name": "Demo Carton 001",
+  "kind": "BOX",
+  "active": false,
+  "image_path": "/media/references/BOX_MODEL_001/reference.png",
+  "regions": [
+    {
+      "name": "LOGO",
+      "bbox": [
+        55,
+        60,
+        150,
+        95
+      ],
+      "expected_class": "logo",
+      "tolerances": {
+        "position_tol_px": 14.0,
+        "rotation_tol_deg": null,
+        "missing_corr": null,
+        "ssim_anomaly": null,
+        "search_margin_px": null,
+        "check_rotation": true
+      }
+    },
+    {
+      "name": "CAP",
+      "bbox": [
+        265,
+        40,
+        115,
+        78
+      ],
+      "expected_class": "cap",
+      "tolerances": {
+        "position_tol_px": 14.0,
+        "rotation_tol_deg": null,
+        "missing_corr": null,
+        "ssim_anomaly": null,
+        "search_margin_px": null,
+        "check_rotation": false
+      }
+    },
+    {
+      "name": "SEAL",
+      "bbox": [
+        95,
+        170,
+        450,
+        48
+      ],
+      "expected_class": "seal",
+      "tolerances": {
+        "position_tol_px": 14.0,
+        "rotation_tol_deg": null,
+        "missing_corr": 0.3,
+        "ssim_anomaly": null,
+        "search_margin_px": null,
+        "check_rotation": false
+      }
+    },
+    {
+      "name": "LABEL",
+      "bbox": [
+        105,
+        250,
+        430,
+        320
+      ],
+      "expected_class": "label",
+      "tolerances": {
+        "position_tol_px": 14.0,
+        "rotation_tol_deg": null,
+        "missing_corr": null,
+        "ssim_anomaly": 0.55,
+        "search_margin_px": null,
+        "check_rotation": true
+      }
+    },
+    {
+      "name": "NETWT",
+      "bbox": [
+        65,
+        650,
+        175,
+        60
+      ],
+      "expected_class": "text",
+      "tolerances": {
+        "position_tol_px": 14.0,
+        "rotation_tol_deg": null,
+        "missing_corr": null,
+        "ssim_anomaly": null,
+        "search_margin_px": null,
+        "check_rotation": false
+      }
+    },
+    {
+      "name": "BARCODE",
+      "bbox": [
+        375,
+        610,
+        200,
+        120
+      ],
+      "expected_class": "barcode",
+      "tolerances": {
+        "position_tol_px": 14.0,
+        "rotation_tol_deg": null,
+        "missing_corr": 0.3,
+        "ssim_anomaly": 0.15,
+        "search_margin_px": null,
+        "check_rotation": false
+      }
+    }
+  ],
+  "mm_per_px": 0.2,
+  "created_at": "2026-09-09T07:40:47+00:00",
+  "notes": "Synthetic printed-carton reference \u2014 proves the engine is profile-driven."
+}
