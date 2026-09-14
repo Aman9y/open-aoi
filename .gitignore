@@ -1,0 +1,46 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+*.egg-info/
+.pytest_cache/
+
+# Node
+node_modules/
+frontend/dist/
+
+# Runtime data / artifacts
+outputs/
+data/db/
+*.sqlite
+*.sqlite3
+*.db
+
+# Keep folder structure but ignore generated media
+data/processed/
+data/raw/*
+!data/raw/.gitkeep
+
+# Env
+.env
+*.local
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# TS build artifacts
+frontend/vite.config.d.ts
+frontend/vite.config.js
+*.tsbuildinfo
+
+# YOLO training artifacts
+runs/
+models/*.pt
+
+# Generated demo datasets (recreate: scripts/make_synthetic_*.py)
+data/datasets/
+.claude/  
+ 

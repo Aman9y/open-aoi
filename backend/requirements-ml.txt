@@ -1,0 +1,9 @@
+# OPTIONAL — only needed to train / run the YOLO component detector (milestone 3).
+# The deterministic inspection pipeline and dashboard do NOT need any of this.
+#   pip install -r backend/requirements-ml.txt
+#
+# This pulls in PyTorch (~1-2 GB). Install into the same venv as requirements.txt.
+
+ultralytics==8.3.55
+# torch / torchvision are resolved by ultralytics for your platform; to pin them
+# or get a CUDA build, install from https://pytorch.org/get-started/locally/ first.
