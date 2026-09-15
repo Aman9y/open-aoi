@@ -1,4 +1,9 @@
-# AI-Assisted Visual Quality Inspection
+# open-aoi
+
+![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)
+![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)
+![React](https://img.shields.io/badge/React-18-blue.svg)
+![Build](https://github.com/Aman9y/open-aoi/actions/workflows/ci.yml/badge.svg)
 
 A low-cost, camera-based inspection station that examines an assembled product and
 returns **GOOD / DEFECTIVE / REVIEW** — and, for defects, shows an operator
