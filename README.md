@@ -9,6 +9,8 @@ A low-cost, camera-based inspection station that examines an assembled product a
 returns **GOOD / DEFECTIVE / REVIEW** — and, for defects, shows an operator
 *exactly where and why*.
 
+👋 **[Meet the Contributors & Add Yourself!](intro.md)**
+
 > **This is a prototype.** It is not certified for manufacturing use and makes no
 > claim of production readiness.
 
