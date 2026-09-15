@@ -13,10 +13,11 @@ If you are joining the team, we'd love to get to know you. Please copy the templ
 
 ---
 
-## [Your Name]
-- **Role:** [Your Role / Year / Department]
-- **GitHub:** [@username](https://github.com/username)
-- **About:** [A few sentences about yourself, your technical interests, and what you are contributing to this project.]
+## Ayush Pandey
+- **Role:** 3rd Year B.E. CSE (AIML) | Java Backend Developer 
+- **GitHub:** [github.com/Ayush-2145](https://github.com/Ayush-2145)
+- **About:** Java Backend Developer , Passionate in building real world backend logic and high performance architectures to handle requests and responses between server and client.
+In this project i have contributed by researching and compiling a report on market analysis and product prices and how our product can standout in this high competition market
 
 ---
 
