@@ -6,6 +6,8 @@ If you are joining the team, we'd love to get to know you. Please copy the templ
 
 ---
 
+<a href="https://github.com/Aman9y"><img src="https://github.com/Aman9y.png" width="60px" alt="Aman9y" /></a> <a href="https://github.com/Ayush-2145"><img src="https://github.com/Ayush-2145.png" width="60px" alt="Ayush-2145" /></a>
+
 ## Aman Mandal
 - **Role:** 3rd Year B.E. CSE (AIML) | AI/ML & Backend Developer | CTO at Monarch Labs
 - **GitHub:** [github.com/Aman9y](https://github.com/Aman9y)

@@ -38,4 +38,4 @@ Once you submit your PR, a maintainer will review your code. We might ask for so
 
 Thank you to everyone who has helped build `open-aoi`! 
 
-[![Contributors](https://contrib.rocks/image?repo=Aman9y/open-aoi)](https://github.com/Aman9y/open-aoi/graphs/contributors)
+<a href="https://github.com/Aman9y"><img src="https://github.com/Aman9y.png" width="60px" alt="Aman9y" /></a> <a href="https://github.com/Ayush-2145"><img src="https://github.com/Ayush-2145.png" width="60px" alt="Ayush-2145" /></a>
