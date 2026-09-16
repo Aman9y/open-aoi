@@ -33,3 +33,9 @@ Check out the `SETUP.md` and `ARCHITECTURE.md` files for deeper technical contex
 4. Fill out the provided Pull Request template when submitting.
 
 Once you submit your PR, a maintainer will review your code. We might ask for some changes, but don't worry—we are here to help!
+
+## Our Contributors
+
+Thank you to everyone who has helped build `open-aoi`! 
+
+[![Contributors](https://contrib.rocks/image?repo=Aman9y/open-aoi)](https://github.com/Aman9y/open-aoi/graphs/contributors)
